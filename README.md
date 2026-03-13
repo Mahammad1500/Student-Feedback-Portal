@@ -50,7 +50,7 @@ Built with **React**, **Node.js**, **Express**, **MongoDB**, and **Material UI**
 ## ⚙️ Installation & Setup
 ```bash
 # 1) Clone the repository
-git clone https://github.com/mahammadctr/Student-Feedback-Portal.git
+git clone https://github.com/mahammad1500/Student-Feedback-Portal.git
 cd Student-Feedback-Portal
 
 # 2) Backend setup
